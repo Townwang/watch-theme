@@ -1,6 +1,6 @@
 import { defineConfig } from 'vitepress'
 
-export default defineConfig(
+export default defineConfig({
 title: "OpenApe",
 description: "A hub for diverse Android open-source projects. For more open-source content, search the official account 👉 'OpenApe'",
 themeConfig: {
@@ -20,4 +20,4 @@ footer: {
     },
   }, 
 lang: "zh-Hans",
-base: '/watch-theme/')
+base: '/watch-theme/'})
