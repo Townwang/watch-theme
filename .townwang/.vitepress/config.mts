@@ -1,8 +1,8 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: "reference",
-  description: "reference",
+  title: "watch-theme",
+  description: "watch-theme",
   lang: "zh-Hans",
-  base: '/reference-blog/'
+  base: '/watch-theme/'
 })
